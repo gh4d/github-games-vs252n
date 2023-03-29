@@ -1,3 +1,2 @@
 * @vs252n
-*.js @somebodythatdoesnotexist
 docs/* @gh4d/documentation
